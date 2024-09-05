@@ -1,4 +1,4 @@
-package libarraytest
+package libarraytest1
 
 import (
 	"fmt"
